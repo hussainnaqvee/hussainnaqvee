@@ -7,7 +7,7 @@
 
 - 🔭 Currently Working as **C Developer @ Safarifone,Pakistan**
 
-- 🌱 I’m currently learning **ReactJS, Redux, ContextAPI, NextJS**
+- 🌱 I’m currently learning **ReactJS, Go, & Cyber-Security**
 
 - 👨‍💻 All of my projects are available at [https://hussainnaqvee.github.io/Portfolio](https://hussainnaqvee.github.io/Portfolio)
 
